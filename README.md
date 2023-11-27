@@ -1,4 +1,5 @@
 # Data Science & Machine Learning Portfolio
+As a final-year computer science student, I am passionate about leveraging technology to solve complex problems and create innovative solutions. Throughout my academic journey, I have honed my skills in programming, algorithm design, and software development, and I am excited to showcase my portfolio, which reflects the diverse projects and experiences that have shaped my growth as a software engineer and data scientist.
 
 ### Contact links:
   - [GitHub](https://github.com/DinnyCode)
@@ -7,18 +8,27 @@
 
 # Work Experience
 ### Workday (University Work Placement)
-- April 2023 - August 2023
-- Technologies used:
-    - Groovy, Python, JSON, Grafana
+**April 2023 - August 2023**
+
+Technologies used:
+- Groovy, Python, JSON, Grafana
 
 ### Optum (Summer Internship)
-- June 2022 - August 2022
-- Technologies used:
-    - Java, XML, OWL, RDF & RDF N-triples
+**June 2022 - August 2022**
+
+Technologies used:
+- Java, XML, OWL, RDF & RDF N-triples
 
 # Education
-- SETU - Bachelor Science Software Development
-- PLC in Comp Sci
+## Bachelor Science Software Development
+**South East Technological University (Carlow)**
+
+2020-2024
+
+## Post Leaving Certificate Computer Science
+**Portlaoise Institute Further Education**
+
+2019-2020
 
 # Languages & Technologies
 - Java
@@ -50,6 +60,18 @@ The following [link](https://www.kaggle.com/datasets/rajeevw/ufcdata) has a kagg
 This project would provide the opportunity to work with a large dataset and be able to find statistics. Certain stats can be difficult to calculate for UFC fights or fighters. It would be a great learning experience for trying to extract data and create visualisations with the data. Trying to represent complex data in a clear and concise visual can be a struggle at times.
 
 Likewise, when calculating certain metrics such as who is able to take the most strikes to the face, some data has to be ignored such as fighters with very few fights in the UFC and this will outline some of the challenges of data science in terms of isolating valid data. When creating models for making predictions this would also be important as some fight/fight data could skew model results due to certain fighters not having enough fight data and this would also be a learning opportunity to understand how to decide what data to include when creating models for prediction.
+
+## Decision Trees & Random Forests JupyterNotebook
+The [Python Data Science Handbook](https://www.oreilly.com/library/view/python-data-science/9781491912126/) is a book that introduces core concepts for doing data science work with Python. This [Jupyter Notebook](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master) was taken and amended to work and compile on a newer version of Python (3.11). 
+
+### Technologies to use:
+-   Python
+-   JupyterNotebooks
+-   MatPlotLib
+-   NumPy
+
+### Opportunities & Challenge
+As stated above, the Jupyter Notebook was written in an old version of Python and so a number of changes had to be made in order for it to run on the current version of Python. Also, by using the notebook, it gave me the opportunity to be able to play and experiment with pre-existing code and data.
 
 # Software Development Projects
 Below are some of my software development projects I have worked on during my studies.
