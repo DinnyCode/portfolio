@@ -1,7 +1,4 @@
-# portfolio
 # Data Science & Machine Learning Portfolio
-# Introduction
-## Denis Perepelyuk
 
 ### Contact links:
   - [GitHub](https://github.com/DinnyCode)
